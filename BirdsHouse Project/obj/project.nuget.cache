@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vzQllFal1eWM6IVnEA2rJYoaDi1CpUkqi2zogCx17zdqte6LdH57PF7TfbHmVQEGFJ7OPZ4pxt+yfynaybayqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adive\\Source\\Repos\\Bird_house_project\\BirdsHouse Project\\BirdsHouse Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adive\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+  ],
+  "logs": []
+}

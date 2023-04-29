@@ -1,0 +1,24 @@
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\BirdsHouse Project.csproj.AssemblyReference.cache
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\BirdsHouse Project_MarkupCompile.cache
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\BirdsHouse Project.g.resources
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\BirdsHouse Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\BirdsHouse Project.AssemblyInfoInputs.cache
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\BirdsHouse Project.AssemblyInfo.cs
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\BirdsHouse Project.csproj.CoreCompileInputs.cache
+C:\Users\adive\source\repos\BirdsHouse Project\bin\Debug\net6.0-windows\BirdsHouse Project.exe
+C:\Users\adive\source\repos\BirdsHouse Project\bin\Debug\net6.0-windows\BirdsHouse Project.deps.json
+C:\Users\adive\source\repos\BirdsHouse Project\bin\Debug\net6.0-windows\BirdsHouse Project.runtimeconfig.json
+C:\Users\adive\source\repos\BirdsHouse Project\bin\Debug\net6.0-windows\BirdsHouse Project.dll
+C:\Users\adive\source\repos\BirdsHouse Project\bin\Debug\net6.0-windows\ref\BirdsHouse Project.dll
+C:\Users\adive\source\repos\BirdsHouse Project\bin\Debug\net6.0-windows\BirdsHouse Project.pdb
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\BirdsHouse Project_MarkupCompile.lref
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\BirdsHouse Project.dll
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\ref\BirdsHouse Project.dll
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\BirdsHouse Project.pdb
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\BirdsHouse Project.genruntimeconfig.cache
+C:\Users\adive\source\repos\BirdsHouse Project\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\adive\source\repos\BirdsHouse Project\bin\Debug\net6.0-windows\SpreadsheetLight.dll
+C:\Users\adive\source\repos\BirdsHouse Project\obj\Debug\net6.0-windows\BirdsHouse Project.csproj.CopyComplete

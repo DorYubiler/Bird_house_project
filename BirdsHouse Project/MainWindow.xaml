@@ -1,0 +1,21 @@
+﻿<Window x:Class="BirdsHouse_Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BirdsHouse_Project"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="280" Width="500" 
+        Background="WhiteSmoke"
+        >
+    <Grid>
+        <TextBox Name="uName" BorderThickness="0" HorizontalAlignment="Left" Margin="287,62,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="131" Height="27"/>
+        <PasswordBox Name="uPass" BorderThickness="0" HorizontalAlignment="Left" Margin="287,111,0,0"  VerticalAlignment="Top" Width="131" Height="27"/>
+        <Label Content="User Name" HorizontalAlignment="Left" Margin="212,62,0,0" VerticalAlignment="Top" Height="27" Width="75"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="212,111,0,0" VerticalAlignment="Top" Height="27" Width="61"/>
+        <Button Content="Submit" Name="Submit_btn" HorizontalAlignment="Left" Margin="368,168,0,0" VerticalAlignment="Top" Height="22" Width="50" Click="Submit_btn_Click"/>
+        <Button Content="Sign-Up" Name="SignUp_btn" HorizontalAlignment="Left" Margin="287,168,0,0" VerticalAlignment="Top" Height="22" Width="57"/>
+        <Image Source="/login-image.png"  Margin="23,75,227,-23" Width="250"/>
+
+    </Grid>
+</Window>
